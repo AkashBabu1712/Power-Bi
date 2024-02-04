@@ -8,7 +8,7 @@ Welcome to the repository for Power BI projects! Here you'll find a collection o
 - [Projects](#projects)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -53,6 +53,4 @@ Contributions to this repository are welcome! If you have a Power BI project tha
 4. Test your changes thoroughly.
 5. Submit a pull request, describing the changes you've made and the rationale behind them.
 
-## License
 
-This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the contents for any purpose, provided you include the original copyright and license notice.
